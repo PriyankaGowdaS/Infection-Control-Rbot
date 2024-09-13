@@ -6,8 +6,11 @@ Problem Statement Due to the spread of covid-19 also called coronavirus, has aff
 Objectives Objectives for the proposed work is to identify if the person is following the rules specified:
 
 1.Detection of the person with and without mask.
+
 2.Design and develop a sensor based system to identify the body temperature.
+
 3.Design and develop a sanitization machine using DC motor.
+
 4.Develop an efficient communication system to notify, using the buzzer and LCD.
 
 Result The work Temperature and Mask Scan Entry System was designed an indoor measurement system to allow the people using some covid rules as body temperature ,automatic hand sanitizer and face mask detection. Arduino based contact less body temperature measurement and face mask detector which detects whether the person is wearing a mask or not.
